@@ -1,6 +1,8 @@
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+// @ts-ignore - GSAP trial types not fully resolving with bundler config
 import { ScrollSmoother } from "gsap-trial/ScrollSmoother";
+// @ts-ignore
 import { SplitText } from "gsap-trial/SplitText";
 
 interface ParaElement extends HTMLElement {

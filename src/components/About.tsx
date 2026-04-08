@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Motivated and creative freelancer with skills in website designing, graphic designing, and video editing, seeking opportunities to deliver high-quality digital content while continuously improving my technical and creative abilities.
         </p>
       </div>
     </div>

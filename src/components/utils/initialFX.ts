@@ -1,3 +1,4 @@
+// @ts-ignore - GSAP trial types not fully resolving with bundler config
 import { SplitText } from "gsap-trial/SplitText";
 import gsap from "gsap";
 import { smoother } from "../Navbar";

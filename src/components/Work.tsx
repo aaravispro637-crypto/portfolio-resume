@@ -60,12 +60,12 @@ const Work = () => {
                   <h3>0{index + 1}</h3>
 
                   <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
+                    <h4>Creator Content {index + 1}</h4>
+                    <p>{index % 2 === 0 ? "Video Editing" : "Thumbnail Design"}</p>
                   </div>
                 </div>
                 <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
+                <p>Premiere Pro, Photoshop, After Effects</p>
               </div>
               <WorkImage image="/images/placeholder.webp" alt="" />
             </div>
